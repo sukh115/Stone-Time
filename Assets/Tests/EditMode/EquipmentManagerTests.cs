@@ -11,6 +11,7 @@
 
 using NUnit.Framework;
 using UnityEngine;
+using UnityEngine.TestTools;
 using StoneAndTime.Core;
 
 namespace StoneAndTime.Tests
