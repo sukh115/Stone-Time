@@ -17,6 +17,7 @@ using NUnit.Framework;
 using UnityEngine;
 using StoneAndTime.Core;
 using StoneAndTime.Parts;
+using Object = UnityEngine.Object; // System.Object 와의 모호성 해소 (System.ArgumentNullException 때문에 using System; 필요)
 
 namespace StoneAndTime.Tests
 {
