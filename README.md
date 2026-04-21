@@ -99,7 +99,7 @@ ProjectSettings/           # URP, Input System, 물리 설정
 |---|---|
 | Lead / Programmer | **정석현** ([@sukh115](https://github.com/sukh115)) |
 | 2D Designer | TBD |
-| Sound Designer | TBD |
+| Sound Designer | **이도량** |
 
 컨트리뷰터 온보딩 절차는 Notion 워크스페이스 내 `ONBOARDING` 문서를 참고해주세요.
 
